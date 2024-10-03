@@ -1,0 +1,105 @@
+{
+  "originHash" : "a28592908e699e982420faf1ff3822f8b4de135fe65a0cd2951e6ba18de6bb38",
+  "pins" : [
+    {
+      "identity" : "anthropicswiftsdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fumito-ito/AnthropicSwiftSDK",
+      "state" : {
+        "branch" : "feature/remove-bedrock-extension",
+        "revision" : "f5bfbd274b73ba4eab7dec4e1f486b9cfcb7e6cd"
+      }
+    },
+    {
+      "identity" : "aws-crt-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/awslabs/aws-crt-swift",
+      "state" : {
+        "revision" : "7b42e0343f28b3451aab20840dc670abd12790bd",
+        "version" : "0.36.0"
+      }
+    },
+    {
+      "identity" : "aws-sdk-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/awslabs/aws-sdk-swift",
+      "state" : {
+        "revision" : "2d2160a099af801078b36a5fe2978b4bc7ab771f",
+        "version" : "1.0.11"
+      }
+    },
+    {
+      "identity" : "documentationcomment",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fumito-ito/DocumentationComment.git",
+      "state" : {
+        "revision" : "90d3c5b9cccddb202c8adb99138733c868d7b082",
+        "version" : "0.0.6"
+      }
+    },
+    {
+      "identity" : "functioncalling",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fumito-ito/FunctionCalling",
+      "state" : {
+        "revision" : "24c07c25d57a66b0e34af8d1ffb1192c2b1313a3",
+        "version" : "0.4.0"
+      }
+    },
+    {
+      "identity" : "grmustache.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/groue/GRMustache.swift",
+      "state" : {
+        "revision" : "c4ee40ef49ae523b06fa470b8d27185ec027330d",
+        "version" : "5.0.1"
+      }
+    },
+    {
+      "identity" : "smithy-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/smithy-lang/smithy-swift",
+      "state" : {
+        "revision" : "c5242d4e06e721293ee91c7affd1d527912f596d",
+        "version" : "0.76.0"
+      }
+    },
+    {
+      "identity" : "swift-cmark",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-cmark.git",
+      "state" : {
+        "revision" : "3ccff77b2dc5b96b77db3da0d68d28068593fa53",
+        "version" : "0.5.0"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "9cb486020ebf03bfa5b5df985387a14a98744537",
+        "version" : "1.6.1"
+      }
+    },
+    {
+      "identity" : "swift-markdown",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-markdown.git",
+      "state" : {
+        "revision" : "8f79cb175981458a0a27e76cb42fee8e17b1a993",
+        "version" : "0.5.0"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax.git",
+      "state" : {
+        "revision" : "0687f71944021d616d34d922343dcef086855920",
+        "version" : "600.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}

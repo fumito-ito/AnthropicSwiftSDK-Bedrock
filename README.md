@@ -22,7 +22,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/fumito-ito/AnthropicSwiftSDK.git", from: "0.5.0"),
+        .package(url: "https://github.com/fumito-ito/AnthropicSwiftSDK.git", from: "0.6.0"),
                 .package(url: "https://github.com/fumito-ito/AnthropicSwiftSDK-Bedrock.git", from: "0.0.1")
     ]
 )

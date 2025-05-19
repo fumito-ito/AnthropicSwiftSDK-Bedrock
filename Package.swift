@@ -17,7 +17,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/fumito-ito/AnthropicSwiftSDK", branch: "feature/remove-bedrock-extension"),
-        .package(url: "https://github.com/awslabs/aws-sdk-swift", from: "1.3.8")
+        .package(url: "https://github.com/awslabs/aws-sdk-swift", from: "1.3.19")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
